@@ -1,0 +1,3 @@
+[submodule "fastparse/elprep"]
+	path = fastparse/elprep
+	url = https://github.com/ExaScience/elprep.git
